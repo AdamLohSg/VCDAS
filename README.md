@@ -15,11 +15,7 @@ This ultimately brings about dire circumstances as roads continue to be ticking 
 According to SCDF, there were **23,000 cases** of Life and death cases in 2018 alone 
 
 ## Machine Learning technologies  
-- ML technologies `
-- Video detection 
-- Accident detection 
-- Libraries to assist
-- Alert authorities
+- Detection libraries etc, Tech stack here-
 
 ## The idea 
 Our solution aims to integrate intelligence into current computerised system to monitor traffic accidents, to leverage on technology to improve the emergency response .
@@ -31,4 +27,32 @@ Our solution aims to integrate intelligence into current computerised system to 
 
 ## Architecture 
 ![alt text](https://cdn.thenewstack.io/media/2020/03/6c98dd5d-github-1024x577.jpg)
+
+
+
+### Running the test 
+
+
+#### Break down into end to end tests
+
+
+### Live Demo 
+
+### Built with 
+
+    IBM Cloudant - The NoSQL database used
+    IBM Cloud Functions - The compute platform for handing logic
+    IBM API Connect - The web framework used
+    Dropwizard - The web framework used
+    Maven - Dependency management
+    ROME - Used to generate RSS Feeds
+    
+### Contributing 
+
+### License
+
+### Acknowledgement
+
+
+
 
