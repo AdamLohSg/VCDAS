@@ -14,10 +14,18 @@ This ultimately brings about dire circumstances as roads continue to be ticking 
 #### Impact of Emergency Medical Services 
 According to SCDF, there were **23,000 cases** of Life and death cases in 2018 alone 
 
-
 ## Technology 
 - ML technologies `
 
 
 ## The idea 
 Our solution aims to integrate intelligence into current computerised system to monitor traffic accidents, to leverage on technology to improve the emergency response .
+
+
+## Demo Video 
+[![4 Bugs video](https://png2.cleanpng.com/sh/a8e32be60b587679a2efb86e364d360a/L0KzQYm3VsA3N6l3R91yc4Pzfri0kBhqapIygdDALXTyd7bqjBlvNWZnSao7N0W3QILqgcE5NmM1Tas8M0G5QYa5WMMxQWY9UKI5N0OxgLBu/kisspng-shiba-inu-dogecoin-5b18275401ca18.2059331615283095880073.png)](https://www.youtube.com/watch?v=2qZHh_iN5Zs)
+
+
+## Architecture 
+![alt text](https://cdn.thenewstack.io/media/2020/03/6c98dd5d-github-1024x577.jpg)
+
