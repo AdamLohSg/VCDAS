@@ -14,9 +14,12 @@ This ultimately brings about dire circumstances as roads continue to be ticking 
 #### Impact of Emergency Medical Services 
 According to SCDF, there were **23,000 cases** of Life and death cases in 2018 alone 
 
-## Technology 
+## Machine Learning technologies  
 - ML technologies `
-
+- Video detection 
+- Accident detection 
+- Libraries to assist
+- Alert authorities
 
 ## The idea 
 Our solution aims to integrate intelligence into current computerised system to monitor traffic accidents, to leverage on technology to improve the emergency response .
